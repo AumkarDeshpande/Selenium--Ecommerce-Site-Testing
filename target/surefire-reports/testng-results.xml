@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42534" started-at="2021-01-17T14:21:43Z" finished-at="2021-01-17T14:22:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42534" started-at="2021-01-17T14:21:43Z" finished-at="2021-01-17T14:22:26Z">
+      <class name="AmazonSiteTesting.AmazonTest">
+        <test-method status="PASS" signature="getExcel()[pri:0, instance:AmazonSiteTesting.AmazonTest@1ca3b418]" name="getExcel" is-config="true" duration-ms="480" started-at="2021-01-17T19:51:43Z" finished-at="2021-01-17T19:51:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExcel -->
+        <test-method status="PASS" signature="homePageNavigation()[pri:0, instance:AmazonSiteTesting.AmazonTest@1ca3b418]" name="homePageNavigation" duration-ms="8370" started-at="2021-01-17T19:51:44Z" finished-at="2021-01-17T19:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageNavigation -->
+        <test-method status="PASS" signature="search()[pri:0, instance:AmazonSiteTesting.AmazonTest@1ca3b418]" name="search" duration-ms="2388" started-at="2021-01-17T19:51:53Z" depends-on-methods="AmazonSiteTesting.AmazonTest.homePageNavigation" finished-at="2021-01-17T19:51:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="filter()[pri:0, instance:AmazonSiteTesting.AmazonTest@1ca3b418]" name="filter" duration-ms="5744" started-at="2021-01-17T19:51:56Z" depends-on-methods="AmazonSiteTesting.AmazonTest.search" finished-at="2021-01-17T19:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filter -->
+        <test-method status="PASS" signature="selectProduct()[pri:0, instance:AmazonSiteTesting.AmazonTest@1ca3b418]" name="selectProduct" duration-ms="2028" started-at="2021-01-17T19:52:02Z" depends-on-methods="AmazonSiteTesting.AmazonTest.filter" finished-at="2021-01-17T19:52:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProduct -->
+        <test-method status="PASS" signature="addToCart()[pri:0, instance:AmazonSiteTesting.AmazonTest@1ca3b418]" name="addToCart" duration-ms="14001" started-at="2021-01-17T19:52:06Z" depends-on-methods="AmazonSiteTesting.AmazonTest.selectProduct" finished-at="2021-01-17T19:52:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="goToCart()[pri:0, instance:AmazonSiteTesting.AmazonTest@1ca3b418]" name="goToCart" duration-ms="1469" started-at="2021-01-17T19:52:23Z" depends-on-methods="AmazonSiteTesting.AmazonTest.addToCart" finished-at="2021-01-17T19:52:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToCart -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:AmazonSiteTesting.AmazonTest@1ca3b418]" name="afterTest" is-config="true" duration-ms="836" started-at="2021-01-17T19:52:25Z" finished-at="2021-01-17T19:52:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- AmazonSiteTesting.AmazonTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

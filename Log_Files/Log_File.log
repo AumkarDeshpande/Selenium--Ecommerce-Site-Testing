@@ -1,0 +1,99 @@
+16:27:23.530 [main] INFO  AmazonSiteTesting.AmazonTest - Driver is initialized
+16:27:25.578 [main] INFO  AmazonSiteTesting.AmazonTest - Navigated to Site
+16:27:27.753 [main] INFO  AmazonSiteTesting.AmazonTest - Window is maximized
+16:27:27.754 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	homePageNavigation
+16:27:28.899 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	search
+16:27:29.041 [main] INFO  AmazonSiteTesting.AmazonTest - Mobile text is sent into search bar
+16:27:30.858 [main] INFO  AmazonSiteTesting.AmazonTest - Search button is clicked
+16:27:30.862 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	search
+16:27:31.319 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	filter
+16:27:31.529 [main] INFO  AmazonSiteTesting.AmazonTest - prime filter button is clicked
+16:27:33.914 [main] INFO  AmazonSiteTesting.AmazonTest - Samsung mobile fitter is clicked
+16:27:35.828 [main] INFO  AmazonSiteTesting.AmazonTest - Price filter is clicked
+16:27:36.169 [main] INFO  AmazonSiteTesting.AmazonTest - Pay on delivery filter is clicked
+16:27:36.169 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	filter
+16:27:36.564 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	selectProduct
+16:27:37.389 [main] INFO  AmazonSiteTesting.AmazonTest - Clicked on first product
+16:27:37.581 [main] INFO  AmazonSiteTesting.AmazonTest - Clicked on second product
+16:27:37.955 [main] INFO  AmazonSiteTesting.AmazonTest - Clicked on third product
+16:27:37.956 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	selectProduct
+16:27:38.545 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	addToCart
+16:27:53.003 [main] INFO  AmazonSiteTesting.AmazonTest - Products are added to cart
+16:27:53.004 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	addToCart
+16:27:54.805 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	goToCart
+16:27:56.198 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	goToCart
+16:46:58.136 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	homePageNavigation
+16:47:02.755 [main] INFO  AmazonSiteTesting.AmazonTest - Driver is initialized
+16:47:05.070 [main] INFO  AmazonSiteTesting.AmazonTest - Navigated to Site
+16:47:07.226 [main] INFO  AmazonSiteTesting.AmazonTest - Window is maximized
+16:47:07.227 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	homePageNavigation
+16:47:08.907 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	search
+16:47:09.137 [main] INFO  AmazonSiteTesting.AmazonTest - Mobile text is sent into search bar
+16:47:11.436 [main] INFO  AmazonSiteTesting.AmazonTest - Search button is clicked
+16:47:11.442 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	search
+16:47:12.044 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	filter
+16:47:12.310 [main] INFO  AmazonSiteTesting.AmazonTest - prime filter button is clicked
+16:47:15.271 [main] INFO  AmazonSiteTesting.AmazonTest - Samsung mobile fitter is clicked
+16:47:17.548 [main] INFO  AmazonSiteTesting.AmazonTest - Price filter is clicked
+16:47:18.015 [main] INFO  AmazonSiteTesting.AmazonTest - Pay on delivery filter is clicked
+16:47:18.016 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	filter
+16:47:18.451 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	selectProduct
+16:47:19.288 [main] INFO  AmazonSiteTesting.AmazonTest - Clicked on first product
+16:47:19.524 [main] INFO  AmazonSiteTesting.AmazonTest - Clicked on second product
+16:47:19.842 [main] INFO  AmazonSiteTesting.AmazonTest - Clicked on third product
+16:47:19.842 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	selectProduct
+16:47:21.091 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	addToCart
+16:47:41.346 [main] INFO  AmazonSiteTesting.AmazonTest - Products are added to cart
+16:47:41.347 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	addToCart
+16:47:43.728 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	goToCart
+16:47:45.610 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	goToCart
+19:49:25.198 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	homePageNavigation
+19:49:31.585 [main] INFO  AmazonSiteTesting.AmazonTest - Driver is initialized
+19:49:34.157 [main] INFO  AmazonSiteTesting.AmazonTest - Navigated to Site
+19:49:38.165 [main] INFO  AmazonSiteTesting.AmazonTest - Window is maximized
+19:49:38.166 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	homePageNavigation
+19:49:39.668 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	search
+19:49:39.998 [main] INFO  AmazonSiteTesting.AmazonTest - Mobile text is sent into search bar
+19:49:42.241 [main] INFO  AmazonSiteTesting.AmazonTest - Search button is clicked
+19:49:42.245 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	search
+19:49:42.737 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	filter
+19:49:43.790 [main] INFO  AmazonSiteTesting.AmazonTest - prime filter button is clicked
+19:49:47.406 [main] INFO  AmazonSiteTesting.AmazonTest - Samsung mobile fitter is clicked
+19:49:50.343 [main] INFO  AmazonSiteTesting.AmazonTest - Price filter is clicked
+19:49:50.593 [main] INFO  AmazonSiteTesting.AmazonTest - Pay on delivery filter is clicked
+19:49:50.593 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	filter
+19:49:50.981 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	selectProduct
+19:49:51.745 [main] INFO  AmazonSiteTesting.AmazonTest - Clicked on first product
+19:49:51.960 [main] INFO  AmazonSiteTesting.AmazonTest - Clicked on second product
+19:49:52.338 [main] INFO  AmazonSiteTesting.AmazonTest - Clicked on third product
+19:49:52.338 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	selectProduct
+19:49:53.345 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	addToCart
+19:50:12.114 [main] INFO  AmazonSiteTesting.AmazonTest - Products are added to cart
+19:50:12.115 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	addToCart
+19:50:14.283 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	goToCart
+19:50:17.238 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	goToCart
+19:51:44.104 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	homePageNavigation
+19:51:48.474 [main] INFO  AmazonSiteTesting.AmazonTest - Driver is initialized
+19:51:50.335 [main] INFO  AmazonSiteTesting.AmazonTest - Navigated to Site
+19:51:52.471 [main] INFO  AmazonSiteTesting.AmazonTest - Window is maximized
+19:51:52.477 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	homePageNavigation
+19:51:53.743 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	search
+19:51:54.018 [main] INFO  AmazonSiteTesting.AmazonTest - Mobile text is sent into search bar
+19:51:56.127 [main] INFO  AmazonSiteTesting.AmazonTest - Search button is clicked
+19:51:56.131 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	search
+19:51:56.612 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	filter
+19:51:56.954 [main] INFO  AmazonSiteTesting.AmazonTest - prime filter button is clicked
+19:51:59.615 [main] INFO  AmazonSiteTesting.AmazonTest - Samsung mobile fitter is clicked
+19:52:01.821 [main] INFO  AmazonSiteTesting.AmazonTest - Price filter is clicked
+19:52:02.356 [main] INFO  AmazonSiteTesting.AmazonTest - Pay on delivery filter is clicked
+19:52:02.356 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	filter
+19:52:02.729 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	selectProduct
+19:52:03.134 [main] INFO  AmazonSiteTesting.AmazonTest - Clicked on first product
+19:52:03.269 [main] INFO  AmazonSiteTesting.AmazonTest - Clicked on second product
+19:52:04.756 [main] INFO  AmazonSiteTesting.AmazonTest - Clicked on third product
+19:52:04.758 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	selectProduct
+19:52:06.598 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	addToCart
+19:52:20.599 [main] INFO  AmazonSiteTesting.AmazonTest - Products are added to cart
+19:52:20.600 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	addToCart
+19:52:23.403 [main] INFO  AmazonSiteTesting.Listeners - Start of Test 	goToCart
+19:52:24.871 [main] INFO  AmazonSiteTesting.Listeners - Success of Test 	goToCart
